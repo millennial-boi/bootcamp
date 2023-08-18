@@ -1,0 +1,14 @@
+/* universal selector */
+
+*{
+    color: yellowgreen;
+    text-decoration: overline;
+}
+
+li a{
+    color: aqua;
+}
+
+body{
+    background-color: darkgrey;
+}

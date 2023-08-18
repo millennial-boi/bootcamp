@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.john{
+    border: 10px solid white;
+    float: left;
+    width: 50%;
+}
+.jane{
+    border: 10px solid white;
+    float: right;
+    width: 50%;
+    
+}

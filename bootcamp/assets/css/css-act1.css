@@ -1,0 +1,19 @@
+.table-1{
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table-1 th{
+    background-color: salmon;
+    color: white;
+    height: 50px;
+}
+
+.table-1 tr:nth-child(odd){
+    background-color: wheat;
+}
+
+.email{
+    color: blue;
+}
